@@ -1,0 +1,19 @@
+services:
+  java-server:
+    build: ./JavaCompose
+    ports:
+      - "8080:8080"
+    networks:
+      - app-network
+
+  python-client:
+    build: ./pycompose
+    restart: on-failure
+    depends_on:
+      - java-server
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
