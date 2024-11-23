@@ -18,4 +18,12 @@ Be able to:
 - form approaches to the conscious application of methods of automated software development of parallel computing systems;
 - create numerical specifications of parallel programs, evaluate their performance indicators, visualize parallel static and dynamic objects.
 
+# Technology stack
 
+<div>
+  <img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache Spark" />
+  <img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" />
+  <img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" />
+  <img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" />
+  <img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" />
+</div>
